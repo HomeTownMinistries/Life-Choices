@@ -115,9 +115,9 @@ Richmond) · John H. Evans (Milford)
 
 ## Sending checklist
 
-1. **Make the Infinity Map link shareable first** — in Google Drive, set the
-   Legacy Edition PDF to "Anyone with the link — Viewer." It is currently
-   private and recipients will hit a permission wall.
+1. **No link, no attachment** — the letter highlights the Infinity Map but the
+   workbook goes out only after a home replies or calls (513) 850-3570. This
+   keeps it from being copied and turns every response into a conversation.
 2. Personalize each email (director's name, their community) — see the letter in
    `funeral-home-partnership-letter.md`.
 3. Send individually in small daily batches, not one mass BCC.
