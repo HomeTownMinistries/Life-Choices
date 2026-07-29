@@ -16,10 +16,13 @@ conversation.
 
 Dear [Funeral Director's Name / the team at Funeral Home Name],
 
-My name is Michael Myers, and I lead HomeTown Ministries International here in
-the greater Cincinnati area. I'm writing because we've built something I believe
-could genuinely help the families who walk through your doors — and I'd love to
-show it to you.
+My name is Michael Myers. I'm a pastor here in the greater Cincinnati area and
+lead HomeTown Ministries International. Over the years I've been asked to
+officiate a lot of funerals — which means I've sat with a lot of families in
+those first hours, helping them organize their thoughts about a whole life in a
+very short amount of time. I'm writing because that experience led me to build
+something I believe could genuinely help the families who walk through your
+doors — and I'd love to show it to you.
 
 You know better than anyone what it looks like when a family arrives to make
 arrangements completely unprepared. No one wrote down Mom's Social Security
@@ -29,7 +32,14 @@ should be called first. Grieving families end up making dozens of decisions in
 their hardest hours with none of the information in front of them — and your
 staff carries the weight of walking them through it.
 
-That's the gap we built **The Infinity Map** to close.
+That's the gap we built **The Infinity Map** to close — and it was written from
+the pastor's chair. Sitting at kitchen tables with grieving families has taught
+me the questions that surface there but often never make it into the paperwork:
+the story behind how they met, what he'd want said in the eulogy — and what he
+wouldn't — who should read the scripture, which songs must not be played. The
+Infinity Map asks those questions right alongside the practical ones, so it
+complements the details your team gathers with the side of the conversation
+families usually save for their pastor.
 
 The Infinity Map is a comprehensive life-and-legacy planning workbook — our
 tagline is *"Because love plans ahead."* Across 22 guided sections, a person
@@ -74,8 +84,9 @@ honored to come alongside it.
 
 Warm regards,
 
-**Michael Myers**
+**Pastor Michael Myers**
 HomeTown Ministries International
+(513) 850-3570
 (513) 850-3570
 michael@hometownministries.com
 hometownministries.com
